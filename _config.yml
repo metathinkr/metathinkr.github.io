@@ -28,7 +28,7 @@ url: "https://jekyll-garden.github.io/" # the base hostname & protocol for your 
 # your social media links etc
 #######################################################################
 
-exclude: ['_includes/notes_graph.json']
+# exclude: ['_includes/notes_graph.json'] # I see that the jekyll plugin 'bidirectional links generator is not working', to avoid biuld error commenting this line. @Metathinkr
 heading: Digital Garden # Change this 
 copyright:  
   year: 2022
