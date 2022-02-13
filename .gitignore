@@ -3,6 +3,7 @@ _site
 pages/.DS_Store
 pages/tags.md
 _notes/.obsidian
+_notes/Private
 .obsidian
 _includes/notes_graph.html
 .trash
