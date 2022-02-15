@@ -1,5 +1,8 @@
 ---
+notetype: #eg unfeed or feed
 permalink: /about
+date: 2022-02-15 22:02:00
+title: About
 ---
 
 Hiran Venugopalan is a maker, product and type designer, design mentor, speaker, and husband living in Bangalore, India. With over ten years of experience in designing type, product, brand, and strategies, he uses design to solve problems integrating user needs, requirements of business success, and the possibilities of technology.
