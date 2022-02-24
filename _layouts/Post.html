@@ -164,7 +164,8 @@
                 <div class="column is-half">
                     {%- include FeedContent.html -%}
                     {%- include Feed.html -%}
-                    <!--{% include m.html %}--> <!--- graph for notes @metathinkr --> <!--feature failed to render because perhaps GitHub doesn't process plugins -->
+                    {%- comment -%}<!--{% include notes_graph.html %}--> <!--- graph for notes @metathinkr --> <!--feature failed to render because perhaps GitHub doesn't process plugins -->
+                    {%- endcomment -%}
                     {%- include Footer.html -%}             
                 </div>
             {%- endif -%}
