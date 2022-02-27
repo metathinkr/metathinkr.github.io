@@ -1,6 +1,6 @@
 ---
-permalink: #eg xyz
+content-type: note
 notetype: feed
-date: 2022-02-15 22:02:00
-title: Every movement should have a protocol
+date: 2022-02-27 19:02:00
+title: every movement should have a protocol
 ---
